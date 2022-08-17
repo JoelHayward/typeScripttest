@@ -12,6 +12,8 @@ function App() {
         <h1>Pablo Huusmann</h1>
         <h1>Joel Hayward</h1>
 
+        <h1>Alyssa Barrett</h1>
+
       </header>
     </div>
   );
