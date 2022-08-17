@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>The BEST Team.</h1>
         <h1>Adan Millard</h1>
 
         <h1>Sonja Fantom</h1>
@@ -13,7 +14,6 @@ function App() {
         <h1>Joel Hayward</h1>
 
         <h1>Alyssa Barrett</h1>
-
       </header>
     </div>
   );
